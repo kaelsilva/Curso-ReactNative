@@ -282,7 +282,3 @@ public/
 .dynamodb/
 
 # End of https://www.gitignore.io/api/reactnative
-
-# Dependências Android e IOS
-android/
-ios/
